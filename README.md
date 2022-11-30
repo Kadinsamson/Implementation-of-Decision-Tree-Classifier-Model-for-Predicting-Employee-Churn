@@ -18,7 +18,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: kedin samson
+Developed by: KADIN SAMSON L
 RegisterNumber:212221230044
 */
 ```
